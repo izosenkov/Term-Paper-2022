@@ -6,7 +6,7 @@ how should they be established in order for democracy to consolidate successfull
 authoritarianism and their impact on the path of democratic consolidation.  
 
 ## Method  
-I am planning to use an fixed effects OLS linear regression with interaction terms
+I am planning to use a fixed effects OLS linear regression with interaction terms
 
 ## Data
 V-dem core dataset as well as their Episodes of Regime Transitions set
