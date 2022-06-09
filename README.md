@@ -9,5 +9,5 @@ authoritarianism and their impact on the path of democratic consolidation.
 I am planning to use a fixed effects OLS linear regression with interaction terms
 
 ## Data
-V-dem core dataset as well as their Episodes of Regime Transitions set
+V-dem core dataset
 
